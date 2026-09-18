@@ -1,11 +1,12 @@
-Excel project which covers most of topic in excel for data analysis
+Excel  
 
-Dmart_sales_Analysis
+Excel is crucial part of data analysis and data science 
 
-Dmart_retail_sales_dataset used
+Excel teaches us understanding data, insights, data cleaning, data validation, data Visualization.
 
-phase 1 - data understanding , filtering, formula use, name conventions
+Excel can create very Appling dashboards through visualization, slicers, insights and designs.
 
-phase-2 - data cleaning through flash fill, custom list. color scale conditional formatting for better understanding, if conditioning , nested if.using ifError also
+this practice work as a simple excel dashboard project.
 
-phase-3 - sumIf, countif 
+
+
